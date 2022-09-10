@@ -5,5 +5,7 @@ estadísticas y de visualización que permitan entender un conjunto de datos, de
 insights y plantear hipótesis de negocio.
 ## Entregado por:
 Nombre: Nicole Bahamón Martínez
+
 Usuario Uniandes: n.bahamon
+
 Código : 201629594
